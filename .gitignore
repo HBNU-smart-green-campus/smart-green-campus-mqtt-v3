@@ -28,6 +28,8 @@
 .idea/**/dbnavigator.xml
 
 jinwon-tcplocalhost1883
+config/
+*.yml
 
 # Gradle
 .idea/**/gradle.xml
